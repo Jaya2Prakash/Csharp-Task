@@ -1,0 +1,8 @@
+E:\C Sharp\exercise2\exercise2\bin\Debug\exercise2.exe.config
+E:\C Sharp\exercise2\exercise2\bin\Debug\exercise2.exe
+E:\C Sharp\exercise2\exercise2\bin\Debug\exercise2.pdb
+E:\C Sharp\exercise2\exercise2\obj\Debug\exercise2.csproj.AssemblyReference.cache
+E:\C Sharp\exercise2\exercise2\obj\Debug\exercise2.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp\exercise2\exercise2\obj\Debug\exercise2.csproj.CoreCompileInputs.cache
+E:\C Sharp\exercise2\exercise2\obj\Debug\exercise2.exe
+E:\C Sharp\exercise2\exercise2\obj\Debug\exercise2.pdb
